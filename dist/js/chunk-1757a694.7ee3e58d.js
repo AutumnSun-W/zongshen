@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-1757a694"],{1899:function(n,t,e){"use strict";e.r(t);var c=function(){var n=this,t=n.$createElement;n._self._c;return n._m(0)},a=[function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"foter"},[e("p",[n._v("收藏列表")])])}],r={name:"myCollect"},s=r,u=(e("b79f"),e("2877")),l=Object(u["a"])(s,c,a,!1,null,null,null);t["default"]=l.exports},b79f:function(n,t,e){"use strict";var c=e("dd0f"),a=e.n(c);a.a},dd0f:function(n,t,e){}}]);
+//# sourceMappingURL=chunk-1757a694.7ee3e58d.js.map

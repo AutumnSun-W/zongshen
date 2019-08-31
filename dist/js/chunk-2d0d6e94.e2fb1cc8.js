@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d6e94"],{7522:function(t,a,n){"use strict";n.r(a);var e=function(){var t=this,a=t.$createElement,n=t._self._c||a;return n("div",{staticClass:"box"},[n("van-tabs",{attrs:{type:"card"}},[n("van-tab",{attrs:{title:"未评价"}}),n("van-tab",{attrs:{title:"已评价"}})],1)],1)},s=[],l={name:"myCritical"},r=l,c=n("2877"),i=Object(c["a"])(r,e,s,!1,null,null,null);a["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0d6e94.e2fb1cc8.js.map
